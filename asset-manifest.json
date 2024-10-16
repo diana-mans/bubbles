@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bubbles/static/css/main.a03176df.css",
+    "main.js": "/bubbles/static/js/main.83b97f74.js",
+    "index.html": "/bubbles/index.html",
+    "main.a03176df.css.map": "/bubbles/static/css/main.a03176df.css.map",
+    "main.83b97f74.js.map": "/bubbles/static/js/main.83b97f74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03176df.css",
+    "static/js/main.83b97f74.js"
+  ]
+}
